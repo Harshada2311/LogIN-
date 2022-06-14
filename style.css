@@ -1,0 +1,112 @@
+.container {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.outer-container {
+    height: 425px;
+    width: 233px;
+    background-color: rgb(54, 96, 220);
+    color: aliceblue;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    background-image: url(//img1a.flixcart.com/www/linchpin/fk-cp-zion/img/login_img_dec4bf.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.outer-container2 {
+    height: 421px;
+    width: 323px;
+    background-color: white;
+    border: 1px solid black;
+    border-left: none;
+    border-width: 1px;
+    color: black;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    /* overflow-y: scroll; */
+    box-shadow: 19px 18px 31px -17px grey;
+}
+
+.or {
+    position: relative;
+    top: 10px;
+    left: 156px;
+    font-size: 13px;
+    font-weight: 100;
+}
+
+.policy {
+    position: relative;
+    top: 10px;
+    left: 23px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#btn {
+    background-color: rgba(226, 65, 36, 0.861);
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 302px;
+    height: 43px;
+    position: relative;
+    top: 24px;
+    left: 16px;
+    border-style: none;
+}
+
+#btn1 {
+    background-color: rgba(233, 229, 228, 0);
+    font-size: 20px;
+    color: rgb(12, 137, 215);
+    font-family: 'Times New Roman', Times, serif;
+    width: 302px;
+    height: 43px;
+    position: relative;
+    top: 20px;
+    left: 19px;
+    border-style: none;
+    box-shadow: -11px 12px 17px -12px grey;
+
+}
+
+.input {
+    position: relative;
+    top: 42px;
+    left: 19px;
+    width: 283px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: -1px;
+    border-width: 1px;
+    text-indent: 1px;
+    padding-top: 15px;
+
+}
+
+.hyper {
+    position: relative;
+    left: 260px;
+    top: 14px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.signup {
+    position: relative;
+    top: 57px;
+    left: 66px;
+    font-size: 18px;
+}
